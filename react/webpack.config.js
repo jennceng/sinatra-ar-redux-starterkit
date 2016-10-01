@@ -3,7 +3,7 @@ var config = {
     path: './react/src/main.js',
   },
   output: {
-    path: './app/public/javascripts',
+    path: './public/javascripts',
     filename: 'app.js'
   },
   module: {
