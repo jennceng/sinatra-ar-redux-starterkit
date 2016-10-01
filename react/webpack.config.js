@@ -4,7 +4,7 @@ var config = {
   },
   output: {
     path: './public/javascripts',
-    filename: 'app.js'
+    filename: 'bundle.js'
   },
   module: {
     loaders: [

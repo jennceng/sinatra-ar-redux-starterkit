@@ -2,7 +2,7 @@
 .DS_store
 config/database.yml
 Gemfile.lock
-/app/assets/javascripts/bundle.js
+/public/javascripts/bundle.js
 /node_modules
 /react/coverage/
 npm-debug.log
