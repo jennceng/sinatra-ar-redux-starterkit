@@ -22,3 +22,8 @@ get '/' do
   @title = "Hello World"
   erb :index
 end
+
+get "/api/v1/users.json" do
+  users = User.all
+  {users: users}.to_json
+end

@@ -4,3 +4,6 @@
 # Example:
 #
 #   Person.create(first_name: 'Eric', last_name: 'Kelly')
+
+User.create(first_name: 'Elizabeth', last_name: 'Lemon')
+User.create(first_name: 'Leslie', last_name: 'Knope')
